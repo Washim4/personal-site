@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    text-align: center;
+    background-color: #BFEAF5;
+}
+
+.txt{
+    
+    font-family: 'Brush Script MT', cursive;
+    position: relative;
+    top: 200px;
+
+}
+
+
+.dev{
+
+    position: relative;
+    top: 240px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+
+.one {
+   
+    margin-bottom: 1.5rem;
+    height: 100vh;
+    
+
+}
+
+.middle-container{
+   
+    position: relative;bottom: 25px;
+   
+}
+.profile{
+    border-radius: 70%;
+    width: 300px;
+    height: 300px;
+}
+
+
+.bottom-cloud{
+position: absolute; left: 350px;
+position: absolute; top: 350px;
+}
+.top-cloud{
+    
+    position: absolute; right: 350px;
+    position: absolute; top: 120px;
+    
+}
+.mountain{
+    position: absolute; bottom: 0px;
+    left: 32vw;
+
+    
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    position: absolute; left: 47vw;
+}
+.bottom-container{
+   
+    position: relative;bottom: 25px;
+
+}
+.skill2{
+    width: 500;
+    height: 500px;
+}
+.skill-row{
+    position: relative ; bottom: 50px;
+}
